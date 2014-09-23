@@ -1,0 +1,37 @@
+<html>
+<body>
+
+<form action="make_play_list.php" method="post">
+
+资源地址：
+<br/>
+<input type="text" name="data"/>
+<br/>
+
+播放时长：
+<br/>
+<input type="text" name="time"/>
+<br/>
+
+<!--#播放总次数：
+<br/>
+<input type="text" name="times"/>
+<br/> --> 
+
+<input type="submit" value="生成播放列表"/>
+</form>
+
+<form action="clear_play_list.php" method="post">
+<input type="submit" value="清空播放列表"/>
+</form>
+
+<form action="show_play_list.php" method="post">
+<input type ="submit" value="查看播放列表">
+</form>
+
+<form action="close_mysql.php" method="post">
+<input type="submit" value="退出登录">
+</form>
+
+</body>
+</html>

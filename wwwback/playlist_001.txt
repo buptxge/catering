@@ -1,0 +1,5 @@
+[{"data":"http://10.102.6.67:8080/sources/1.mp4",
+"time":"2"},{"data":"http://10.102.6.67:8080/sources/2.png",
+"time":"5"},{"data":"http://10.102.6.67:8080/sources/3.mp4",
+"time":"3"},{"data":"http://10.102.6.67:8080/sources/4.jpg",
+"time":"5"}]

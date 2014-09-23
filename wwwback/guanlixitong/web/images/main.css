@@ -1,0 +1,84 @@
+body{margin:0; padding:0; font-size:9pt;}
+
+a{
+color:#000000;
+text-decoration:none;
+}
+
+table{
+	font-size:11pt;
+	border-collapse:collapse;
+}
+
+table,th,td{
+border:1px solid gray;
+}
+
+td{
+color:#707070;
+}
+
+
+#top{width:100%; height:60px; background:url(main_04.gif);}
+
+#logo{width:357px; height:60px; background:url(main_02.jpg); float:left; margin-left:32px;}
+
+#user{ margin-top:38px; padding-left:40px; float:left;}
+
+#main{width:100%;background:url(main_bg.gif) repeat-x;}
+
+#left{width:188px; float:left; background-image:url(main_bg.gif) ; background-repeat:repeat-x;}
+
+#left_menu{ width:184px;background:url(main_07.gif) no-repeat; height:52px; margin-left:4px;}
+
+#left_tree{width:184px; background:url(main_19.gif); height:100%; margin-left:4px;}
+
+#tree_icon{width:162px; height:95px; background:url(main_12.gif); margin-left:11px; text-align:center;}
+
+#tree_text{ width:162px; margin-left:11px; margin-top:10px; list-style:none;}
+
+.tree_li {list-style:none; line-height:25px;}
+
+.list_img{margin-right:5px; width:3px; margin-left:5px;}
+
+#yh{width:50px; height:50px; float:left; margin-left:20px; margin-top:10px; line-height:25px; color:#fff;}
+
+#system{width:50px; height:50px; float:right; margin-right:20px; margin-top:10px; line-height:25px; color:#fff;}
+
+#tree_down{height:17px; width:184px; margin-left:4px; margin-bottom:0px; background:url(main_21.gif);}
+
+#right_top{height:35px;color:#fff;background-image:url(main_09.gif) ; background-repeat:repeat-x;}
+
+#img{height:26px; width:35px; float:left;padding-top:5px; text-align:center;}
+
+.imgtext{ float:left; display: block; margin-top:13px; margin-left:3px;}
+
+#loginout{float:right; margin-right:35px;padding-top:5px; text-align:center; width:80px;}
+
+#loginoutimg{width:26px; height:26px; float:left;}
+
+.logintext{display: block; padding-top:9px; margin-left:3px; float:left;}
+
+#right_font{padding-top:10px;height:28px; background-image:url(main_10.gif) ; background-repeat:repeat-x;}
+
+#right_font img {padding-right:8px; margin-left:15px;}
+
+.bfont{ font-weight:bolder; font-size:10pt;}
+#menu1{width:100%; height:100%}
+#menu_href1{ float:left; width:60px; font-size:9pt; margin-top:15px; margin-left:31px;}
+#menu_href2{ float:left; width:60px; font-size:9pt;  margin-left:105px; margin-top:-15px;}
+#menu_href3{ width:50px; font-size:9pt; margin-top:25px; margin-left:30px;}
+#menu_href4{ width:50px; font-size:9pt; margin-top:25px; margin-left:30px;}
+#menu_href5{ width:50px; font-size:9pt; margin-top:25px; margin-left:30px;}
+#menu_href6{ width:50px; font-size:9pt; margin-top:25px; margin-left:30px;}
+#right_div0{ width:120px; font-size:10pt; margin-left:20px;} 
+#right_div1{ width:100%; height:220px; margin-right:auto; margin-left:50px; margin-bottom:25px;}
+#pagechange{ width:100%; height:50px; margin-top:10px; }
+#prepage{font-size:10pt; margin-left:800px; width:50px; float:left; }
+#nextpage{font-size:10pt; margin-left:40px; width:50px; float:left;}
+#table_list{width:20%; height:80px; border:0; color:black; margin-left:12.5%; margin-right:auto;}
+#tr_list{border:1px solid black;}
+.td_list{color:black;}
+#show_list_div{font-size:10pt; width:750px; height:400px; margin-top:14px; margin-left:20px;}
+#show_list_button{width:100px; height:40px; margin-top:-400px; margin-left:75%;}
+#listtext{font-size:8pt;}
